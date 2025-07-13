@@ -146,6 +146,10 @@
             position: relative;
         }
 
+        hero-image{
+            width: 80%;
+        }
+
         .hero::before {
             content: '';
             position: absolute;
